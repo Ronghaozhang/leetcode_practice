@@ -57,8 +57,6 @@ class Solution {
 }
 ```
 
-method 2:
-
-Top-down, 
+method 2: Top-down
 
 
